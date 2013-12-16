@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AirpushSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/AirpushSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
